@@ -4,7 +4,7 @@
 
 This is a general guide for installing and using python on macos
 
-<div>
+</div>
 
 # Installing
 
